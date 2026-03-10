@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "age": "29",
+      "phone": "555-1234",
+      "timestamp": "2026-03-10 20:49:15",
+      "record_id": "REC-0001"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "age": "35",
+      "phone": "555-5678",
+      "timestamp": "2026-03-10 20:49:15",
+      "record_id": "REC-0002"
+    },
+    {
+      "name": "Carol White",
+      "email": "carol@example.com",
+      "age": "42",
+      "timestamp": "2026-03-10 20:49:15",
+      "record_id": "REC-0003"
+    },
+    {
+      "name": "Diana Prince",
+      "email": "diana@example.com",
+      "age": "31",
+      "phone": "555-9999",
+      "timestamp": "2026-03-10 20:49:15",
+      "record_id": "REC-0004"
+    }
+  ],
+  "hashes": [
+    "f1a57891774d7c8df8f5c3d9ff3a985b5d2ca78896bd616e680806faeae752dc",
+    "7cc89d1538e874b5edb91f015b317488f7c3f1df1d023f66448d48133ab74b31",
+    "089108e17c090fc3cab8b2d9fedeb07bbe057c203c9e93e303a14a1127d2a000",
+    "696644238ab40fe07b94fb0ca9bf399ad8fe1db3170b18d5bbc51d56df51fecf"
+  ],
+  "total_added": 4,
+  "total_rejected": 44,
+  "last_updated": "2026-03-10 21:04:41"
+}
