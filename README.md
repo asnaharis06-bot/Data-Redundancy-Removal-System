@@ -1,6 +1,6 @@
 # Data Redundancy Removal System
 
-A Python-based system designed to identify, classify, and prevent redundant or false positive data from being stored in a cloud database. Built as part of my Cloud Computing Internship - Task 1
+A Python-based system designed to identify, classify, and prevent redundant or false positive data from being stored in a cloud database. Built as part of my Code Alpha Cloud Computing Internship - Task 1
 
 ## What It Does
 
