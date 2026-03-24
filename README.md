@@ -58,7 +58,7 @@ No additional libraries needed — only built-in Python modules are used.
 
 **Asna Haris** — Cloud Computing Intern
 
-- GitHub: https://github.com/asnaharis06-bot
+- GitHub: https://github.com/asnahar1s
 - LinkedIn: https://www.linkedin.com/in/asna-haris-684058319
 
 ## 🔗 Project Links
